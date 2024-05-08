@@ -135,6 +135,7 @@ hr {
    .recipe-card {
       max-width: 735px;
       border-radius: 1.5rem;
+      margin-top: 7rem;
       padding: 2.5rem;
    }
    .recipe-content {
